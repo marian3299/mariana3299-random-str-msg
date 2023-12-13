@@ -1,0 +1,24 @@
+{
+  "name": "mariana3299-random-str-msg",
+  "version": "1.0.0",
+  "description": "Random String Messeges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marian3299/mariana3299-random-str-msg.git"
+  },
+  "keywords": [],
+  "author": "Mariana Ampudia <mariana.ag3299@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "mariana3299-random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1",
+    "mariana3299-random-str-msg": "file:"
+  }
+}
